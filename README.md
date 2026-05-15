@@ -11,8 +11,8 @@
 class Developer:
 
     def __init__(self):
-        self.name = "Elvis Cha"
-        self.role = "Software Developer"
+        self.name = "Yuanfang Chen"
+        self.role = "Student major in IT"
         self.language_spoken = ["zh_CN", "en_US"]
 
     def say_hi(self):
